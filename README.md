@@ -1,9 +1,9 @@
-stickery
+Stickery
 ========
 
 Stickery is a jQuery plugin allowing to stick elements in the page when scrolling.
 
-Demo: [http://www.mangolight.com/labs/stickery]
+Demo: http://www.mangolight.com/labs/stickery
 
 ## Options
 - **top**: distance (in px) between the top of the window and the element when the element is stuck (default: 0)
